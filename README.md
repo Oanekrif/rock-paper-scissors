@@ -1,4 +1,4 @@
-#  Rock✊ Paper✋ Scissors✌️ Game🕹️ </br></br></br>
+# 🎲💻🕹️ Rock✊ Paper✋ Scissors✌️ Game </br></br></br>
 
 • Welcome to the Rock Paper Scissors Game! This is a simple and fun Python-based implementation of the classic game.</br>
 • Test your luck and strategy against an AI opponent! 🎮</br>
@@ -30,9 +30,9 @@ The game is implemented using basic Python constructs like:</br>
 • while loop for validating user input.</br>
 • random.choice for AI decision-making.</br>
 • if-elif-else for determining the winner based on the game's rules:</br>
---• Rock beats Scissors.</br>
---• Scissors beat Paper.</br>
---• Paper beats Rock.</br>
+/t • Rock beats Scissors.</br>
+/t • Scissors beat Paper.</br>
+/t • Paper beats Rock.</br>
 
 ## Prerequisites 🌐</br>
 

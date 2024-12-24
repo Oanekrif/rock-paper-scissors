@@ -27,12 +27,12 @@
 ## Code Explanation 📗</br>
 
 The game is implemented using basic Python constructs like:</br>
-• while loop for validating user input.</br>
-• random.choice for AI decision-making.</br>
-• if-elif-else for determining the winner based on the game's rules:</br>
-\t • Rock beats Scissors.</br>
-\t • Scissors beat Paper.</br>
-\t • Paper beats Rock.</br>
+• `while` loop for validating user input.</br>
+• `random.choice` for AI decision-making.</br>
+• `if-elif-else` for determining the winner based on the game's rules:</br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• Rock beats Scissors.</br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• Scissors beat Paper.</br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• Paper beats Rock.</br>
 
 ## Prerequisites 🌐</br>
 
